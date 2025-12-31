@@ -55,3 +55,17 @@ infrastructure/  Network, messaging, and deployment-related setup
 edge/            Software running on Raspberry Pi edge devices
 ml/              Experimental machine learning components (optional)
 tools/           Supporting tools and helper scripts
+
+# Infrastructure
+
+Infrastructure-related code and configuration.
+
+Typical contents:
+- isolated network setup (addressing, routing, firewalling)
+- MQTT broker configuration
+- provisioning and deployment scripts
+- reproducibility notes and environment setup instructions
+
+The focus is on creating a controlled and repeatable
+environment for the edge devices.
+
