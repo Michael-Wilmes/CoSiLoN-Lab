@@ -1,4 +1,4 @@
-# CoSiLoN - LAb
+# CoSiLoN - Lab
 
 ( (Co)nstruction (Si)ite (Lo)cal (N)etwork - Lab)
 
