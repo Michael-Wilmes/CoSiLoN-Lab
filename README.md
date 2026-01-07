@@ -19,6 +19,10 @@ This repository represents an **evolving technical project** and serves as a **h
 The CoSiLoN architecture consists of multiple **Raspberry Pi–based edge devices** that exchange machine and status data via **MQTT** with a central **hub node**.  
 The hub acts as a **communication broker and system coordinator**, hosting the local services and web interface within the isolated network.
 
+<p align="center">
+  <img src="docs/architecture-overview.png" alt="CoSiLoN Lab – High-Level Architecture" width="700">
+</p>
+
 ---
 
 ## Motivation & Approach
