@@ -1,6 +1,3 @@
-![Status](https://img.shields.io/badge/status-lab%20project-orange)
-![Scope](https://img.shields.io/badge/scope-experimental-lightgrey)
-
 # CoSiLoN - Lab
 *(Construction Site Local Network – Lab)*
 
