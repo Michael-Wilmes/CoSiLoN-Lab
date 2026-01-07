@@ -1,7 +1,12 @@
-# Edge Systems Lab
+# CoSiLoN - LAb
+
+( (Co)nstruction (Si)ite (Lo)cal (N)etwork - Lab)
 
 This repository contains a laboratory project focused on building and evaluating
 an isolated network using Raspberry Pi–based edge devices.
+The network's aim isto represent a local construction site network, which is used 
+(with different hardware) in reality.
+
 
 The project explores how distributed edge nodes can communicate and operate
 in a controlled, offline-capable environment, with a strong emphasis on
