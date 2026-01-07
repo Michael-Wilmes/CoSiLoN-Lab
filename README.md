@@ -20,7 +20,7 @@ The CoSiLoN architecture consists of multiple **Raspberry Pi–based edge device
 The hub acts as a **communication broker and system coordinator**, hosting the local services and web interface within the isolated network.
 
 <p align="center">
-  <img src="docs/architecture/genreral-overview.png" alt="CoSiLoN Lab – High-Level Architecture" width="700">
+  <img src="docs/architecture/general-overview.png" alt="CoSiLoN Lab – High-Level Architecture" width="700">
 </p>
 
 ---
