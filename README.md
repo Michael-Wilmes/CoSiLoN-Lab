@@ -1,7 +1,7 @@
 # CoSiLoN - Lab
 *(Construction Site Local Network – Lab)*
 <p align="center">
-  <img src="docs/CoSiLon-Lab-logo-transparent-medium.png" alt="CoSiLoN Lab – High-Level Architecture" width="700">
+  <img src="docs/CoSiLon-Lab-logo-transparent-medium.png" alt="CoSiLoN Lab – High-Level Architecture" width="500">
 </p>
 
 ![Status](https://img.shields.io/badge/status-lab%20project-orange)
